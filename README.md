@@ -1,4 +1,4 @@
-# RIFT 2026: Autonomous CI/CD Healing Agent - Level 1 Testbed
+ CI/CD Healing Agent - Level 1 Testbed
 
 ## Project Overview
 This repository serves as an initial test environment for an Autonomous DevOps Agent. [cite_start]It contains a Python-based utility suite with intentional bugs across various categories including LINTING, SYNTAX, and TYPE_ERRORs to verify the agent's detection and healing capabilities[cite: 10, 47].
